@@ -31,3 +31,20 @@ Les microservices utilisés :
 La methode RestController
 
 <img src="captures/bill.PNG">
+
+
+Configuration statique du système de routage : 
+
+![img.png](img.png)
+
+
+l'annuaire Eureka Discrovery Service : 
+
+![img_1.png](img_1.png)
+
+
+configuration dynamique des routes de la gateway : 
+
+![img_2.png](img_2.png)
+
+
